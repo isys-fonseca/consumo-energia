@@ -21,7 +21,3 @@ O projeto também calcula o valor em Reais baseando-se em uma tarifa fixa de R$ 
 1. Certifique-se de ter o Python instalado.
 2. Clone este repositório.
 3. Execute no terminal: `python app.py`.
-
-## 📱Teste via mobile
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/isys-fonseca/consumo-energia/blob/main/app.py)
-   
