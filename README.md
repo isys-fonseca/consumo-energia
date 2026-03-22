@@ -4,7 +4,7 @@ Este é um programa em Python desenvolvido para ajudar usuários a estimarem o c
 ## Objetivo
 O sistema recebe dados técnicos simples e transforma em informações úteis para o controle de gastos domésticos.
 
-## Tecnologias Utilizadas*
+## Tecnologias Utilizadas
 * **Linguagem:** Python
 * **Ambiente:** VS Code
 * **Versionamento:** Git & GitHub
@@ -18,4 +18,4 @@ O projeto também calcula o valor em Reais baseando-se em uma tarifa fixa de R$ 
 ## Como executar
 1. Certifique-se de ter o Python instalado.
 2. Clone este repositório.
-3. No terminal, execute: `python app.py`.
+3. Execute no terminal: `python app.py`.
