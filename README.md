@@ -5,9 +5,11 @@ Este é um programa em Python desenvolvido para ajudar usuários a estimarem o c
 O sistema recebe dados técnicos simples e transforma em informações úteis para o controle de gastos domésticos.
 
 ## Tecnologias Utilizadas
-* **Linguagem:** Python
-* **Ambiente:** VS Code
-* **Versionamento:** Git & GitHub
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 
 ## Fórmula Utilizada
 O cálculo segue a lógica:
